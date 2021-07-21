@@ -1,0 +1,6 @@
+Caused by: org.apache.axis.AxisFault: java.util.ConcurrentModificationException
+
+高并发情况下会有偶发问题
+
+参考地址：
+https://stackoverflow.com/questions/52218759/axis-client-1-4-with-jdk-8-gives-org-apache-axis-axisfault-java-util-concurrent
